@@ -91,9 +91,10 @@ I love blending good design with functional code, and always exploring new techn
 
 ---
 
-> 💫 *“Build it until you’re proud of it.”*
-
 ### 📊 GitHub Contribution Graph
 
 [![Lamia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lamiafekry2003&theme=react-dark)](https://github.com/lamiafekry2003)
 
+---
+
+> 💫 *“Build it until you’re proud of it.”*
