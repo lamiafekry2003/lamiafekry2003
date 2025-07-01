@@ -10,7 +10,7 @@ I’m a passionate **Frontend Developer** who builds clean and interactive web a
 Currently diving deeper into **Node.js** and backend development to become a **Full Stack / MERN Developer** 🌐  
 I love blending good design with functional code, and always exploring new technologies to sharpen my skills. 🎯
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="410px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400px"/>
 
 ---
 
@@ -84,8 +84,6 @@ I love blending good design with functional code, and always exploring new techn
 
 - 🔒 [AutismDetect App](https://github.com/lamiafekry2003/autism) — A system that helps detect autism in children using AI, forms & images(IN APP),static (IN WEB)
 - 🛍️ [E-commerce Web App](https://github.com/lamiafekry2003/ecommerace-project) — Built using React , with a shopping cart
-
-_(Replace `#` with actual links if available)_
 
 ---
 
