@@ -25,12 +25,9 @@ I love blending good design with functional code, and always exploring new techn
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/lamia-fekry), [Telegram](https://t.me/lamia_fekry), or [WhatsApp](https://wa.me/201150627798)  
 - 📝 Check out my [resume](https://drive.google.com/drive/folders/1f1vywSkjuwPYnSXwRyKE0eTpWaEbQnuf?usp=sharing)  
 - ✨ I’m improving my English daily through practice  
-- 🎧 In my free time, I listen to podcasts, watch English movies, and enjoy walking  
-- 📚 I love reading fiction & fantasy novels   
+- 🎧 In my free time, I listen to podcasts, watch English movies,reading,and enjoy walking  
 - 🧠 Practicing JS, SQL... regularly on [LeetCode](https://leetcode.com/u/lamia2003/)  
 - 🎨 I enjoy creating UI designs using **Figma** and SVGs  
-
-
 
 ---
 
