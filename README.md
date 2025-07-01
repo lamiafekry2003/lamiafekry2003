@@ -10,7 +10,7 @@ I’m a passionate **Frontend Developer** who builds clean and interactive web a
 Currently diving deeper into **Node.js** and backend development to become a **Full Stack / MERN Developer** 🌐  
 I love blending good design with functional code, and always exploring new technologies to sharpen my skills. 🎯
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="410px"/>
 
 ---
 
