@@ -40,7 +40,7 @@ I love blending good design with functional code, and always exploring new techn
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /></a>
-<a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" height="42px" src="https://images.app.goo.gl/dkx4jbZ5VUvqqc6r8" /></a>
+<a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" height="42px" src="https://raw.githubusercontent.com/USERNAME/REPO/main/images/tailwind.png" /></a>
 <a href="https://sass-lang.com/"><img align="left" alt="Sass" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
 <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
 <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
@@ -62,7 +62,7 @@ I love blending good design with functional code, and always exploring new techn
 <a href="https://git-scm.com/"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></a>
 <a href="https://figma.com"><img align="left" alt="Figma" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" /></a>
 <a href="https://www.postman.com/"><img align="left" alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a>
-<a href="https://www.apachefriends.org/index.html"><img align="left" alt="MAMP/XAMPP" height="42px" src="https://images.app.goo.gl/XABueHbPVRiNmPvW9" /></a>
+<a href="https://www.apachefriends.org/index.html"><img align="left" alt="MAMP" height="42px" src="https://raw.githubusercontent.com/USERNAME/REPO/main/images/mamp.png" /></a>
 <a href="https://code.visualstudio.com/"><img align="left" alt="VS Code" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
 
 <br><br><br>
