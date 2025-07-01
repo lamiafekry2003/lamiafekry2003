@@ -36,37 +36,28 @@ I love blending good design with functional code, and always exploring new techn
 
 ### 🔧 Tech Stack I Use
 
-<!-- Frontend -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
-<a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /></a>
-<a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" height="42px" src="https://raw.githubusercontent.com/USERNAME/REPO/main/images/tailwind.png" /></a>
-<a href="https://sass-lang.com/"><img align="left" alt="Sass" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /></a>
-<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
-<a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
-<a href="https://reactjs.org/"><img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
-<a href="https://nextjs.org/"><img align="left" alt="Next.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></a>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-<br><br><br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-<!-- Backend -->
-<a href="https://nodejs.org"><img align="left" alt="Node.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" /></a>
-<a href="https://expressjs.com/"><img align="left" alt="Express.js" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" /></a>
-<a href="https://www.mysql.com/"><img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /></a>
-<a href="https://www.postgresql.org/"><img align="left" alt="SQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /></a>
-<a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" /></a>
-
-<br><br><br>
-
-<!-- Tools -->
-<a href="https://git-scm.com/"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></a>
-<a href="https://figma.com"><img align="left" alt="Figma" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" /></a>
-<a href="https://www.postman.com/"><img align="left" alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a>
-<a href="https://www.apachefriends.org/index.html"><img align="left" alt="MAMP" height="42px" src="https://raw.githubusercontent.com/USERNAME/REPO/main/images/mamp.png" /></a>
-<a href="https://code.visualstudio.com/"><img align="left" alt="VS Code" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
-
-<br><br><br>
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![MAMP](https://img.shields.io/badge/MAMP-003545?style=flat&logo=mamp&logoColor=white)
 
 
 ---
@@ -80,12 +71,11 @@ I love blending good design with functional code, and always exploring new techn
 
 ---
 
-:
-
 ### 🌀 Code Cycle
 <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="100px" alt="Broken system!" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="100px" alt="It's working!" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="100px" alt="It's working but you don't know how!" /> </div>
 
 ---
+
 ### 💻 Projects I'm Proud Of
 
 - 🔒 [AutismDetect App](https://github.com/lamiafekry2003/autism) — A system that helps detect autism in children using AI, forms & images(IN APP),static (IN WEB)
